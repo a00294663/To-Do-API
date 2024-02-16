@@ -1,0 +1,12 @@
+/workspaces/To-Do-API/TodoList.Models/bin/Debug/net8.0/TodoList.Models.deps.json
+/workspaces/To-Do-API/TodoList.Models/bin/Debug/net8.0/TodoList.Models.dll
+/workspaces/To-Do-API/TodoList.Models/bin/Debug/net8.0/TodoList.Models.pdb
+/workspaces/To-Do-API/TodoList.Models/obj/Debug/net8.0/TodoList.Models.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/To-Do-API/TodoList.Models/obj/Debug/net8.0/TodoList.Models.AssemblyInfoInputs.cache
+/workspaces/To-Do-API/TodoList.Models/obj/Debug/net8.0/TodoList.Models.AssemblyInfo.cs
+/workspaces/To-Do-API/TodoList.Models/obj/Debug/net8.0/TodoList.Models.csproj.CoreCompileInputs.cache
+/workspaces/To-Do-API/TodoList.Models/obj/Debug/net8.0/TodoList.Models.sourcelink.json
+/workspaces/To-Do-API/TodoList.Models/obj/Debug/net8.0/TodoList.Models.dll
+/workspaces/To-Do-API/TodoList.Models/obj/Debug/net8.0/refint/TodoList.Models.dll
+/workspaces/To-Do-API/TodoList.Models/obj/Debug/net8.0/TodoList.Models.pdb
+/workspaces/To-Do-API/TodoList.Models/obj/Debug/net8.0/ref/TodoList.Models.dll
